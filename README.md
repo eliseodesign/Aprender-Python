@@ -1,4 +1,4 @@
-# Aprender-Python🐍 [Py logo](./pyLogo.png)
+# Aprender-Python ![Py logo](./pyLogo.png)
 my process to learn python with courses, sololearn and freecodecamp
 
 -En español-
