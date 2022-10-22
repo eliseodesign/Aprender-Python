@@ -1,4 +1,7 @@
-# Aprender - ![Py logo](./pyLogo.png)
+# Aprender Python
+<img width="200px" src="./pyLogo.png" alt="logo python">
+<!-- # Aprender- ![Py logo](./pyLogo.png) -->
+
 
 my process to learn python with courses, sololearn and freecodecamp
 ## Descripción
